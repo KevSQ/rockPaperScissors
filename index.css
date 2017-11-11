@@ -1,0 +1,19 @@
+
+body {
+	background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(http://www.publicdomainpictures.net/pictures/200000/velka/american-flag-background-14774880931jI.jpg);
+}
+
+#header {
+	font-family: 'Cabin Condensed', sans-serif;
+	letter-spacing: 2px;
+	color: white;
+	border: 1px hidden black;
+	background: rgba(0, 0, 0, .6);
+	padding: 3px;
+}
+
+#sketch {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
